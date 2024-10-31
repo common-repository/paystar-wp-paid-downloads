@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayStar WP-Paid Downloads\n"
+"POT-Creation-Date: 2021-12-09 22:18+0330\n"
+"PO-Revision-Date: 2021-12-09 22:18+0330\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: paystar-wp-paid-downloads.php:29
+msgid "paystar-wp-paid-downloads"
+msgstr "افزونه فروش فایل درگاه پی استار برای وردپرس"
+
+#: paystar-wp-paid-downloads.php:42
+msgid "جزئيات دانلود محصول"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:43 paystar-wp-paid-downloads.php:45
+msgid "کاربر گرامي {name}،"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:43
+msgid ""
+"ضمن تشکر از شما بابت خريد محصول {product_title}، جهت دانلود برروي لينک زير "
+"کليک نماييد :"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:43
+msgid ""
+"توجه داشته باشيد لينک فوق تنها به مدت {download_link_lifetime} روز داراي "
+"اعتبار جهت دريافت مي باشد ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:43 paystar-wp-paid-downloads.php:45
+msgid "با تشکر"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:44 paystar-wp-paid-downloads.php:1370
+msgid "عمليات ناموفق پرداخت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:45
+msgid "ضمن تشکر از شما جهت انتخاب محصول {product_title} ،"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:45
+msgid "پرداخت شما با وضعيت \" {payment_status} \" در سيستم ثبت شده است ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:45
+msgid ""
+"در صورتي که پس از بررسي پرداخت شما موفقيت آميز بوده باشد جزئيات محصول اصلاح "
+"خواهد شد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:196
+msgid "تعيين ترمینال الزامي مي باشد "
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:197
+msgid "ايميل وارد شده جهت دريافت اطلاع رساني ها صحيح نمي باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:198
+msgid "آدرس ايميل وارد شده براي فروشگاه صحيح نمي باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:199
+msgid "نام فروشگاه کوتاه مي باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:200
+msgid "عنوان ايميل خريد موفقيت آميز مي بايست حداقل داراي 3 حرف باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:201
+msgid "عنوان ايميل خريد موفقيت آميز مي بايست حداکثر داراي 64 حرف باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:202
+msgid "متن ايميل خريد موفقيت آميز مي بايست حداقل داراي 3 حرف باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:203
+msgid "عنوان ايميل خرید ناموفق مي بايست حداقل داراي 3 حرف باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:204
+msgid "عنوان ايميل خريد ناموفق مي بايست حداکثر داراي 64 حرف باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:205
+msgid "متن ايميل خريد ناموفق مي بايست حداقل داراي 3 حرف باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:206
+msgid "مدت اعتبار لينک را در بازه [1...365] روز تعيين نماييد "
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:213
+msgid "فروش فایل پی استار"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:214
+msgid "تنظيمات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:215
+msgid "فايلها"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:216
+msgid "اضافه کردن فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:217
+msgid "لينک هاي دريافت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:218
+msgid "اضافه کردن لينک"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:219
+msgid "پرداخت ها"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:231
+msgid "خطا هاي موجود در فرم :"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:235
+msgid "تنظیمات افزونه با <strong>موفقیت</strong> بروزرسانی گردید ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:242
+msgid "پرداخت پی استار - تنظيمات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:249
+msgid "تنظیمات اصلی"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:253
+msgid "ايميل اطلاع رساني"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:254
+msgid "لطفا يک آدرس ايميل جهت دریافت کليه رويداد ها خريد/پرداخت وارد نماييد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:257
+msgid "نام فروشگاه"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:258
+msgid ""
+"لطفا نام مورد نظر خود جهت پيام هاي ارسالي به خريدار را در اين قسمت تعيين "
+"نماييد ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:261
+msgid "ايميل فروشگاه"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:262
+msgid "تمامي ايميل هاي ارسالي براي خريدار از طرف اين ايميل ارسال خواهد شد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:265
+msgid "عنوان ايميل خريد موفق"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:266
+msgid ""
+"پس از پرداخت موفقيت آميز پرداخت کننده يک ايميل با اين عنوان دريافت مي نمايد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:269
+msgid "متن ايميل خريد موفق"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:270
+msgid ""
+"پس از خريد موفقيت آميز متن فوق براي کاربر ارسال مي گردد ، جهت جايگزيني در "
+"هنگام ارسال از فيلد هاي زير استفاده نماييد: {name}, {payer_email}, "
+"{product_title}, {product_price}, {product_currency}, {download_link}, "
+"{download_link_lifetime}, {license_info}."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:273
+msgid "عنوان ايميل خريد ناموفق"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:274
+msgid "پس از پرداخت ناموفق پرداخت کننده يک ايميل با اين عنوان دريافت مي نمايد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:277
+msgid "متن ايميل خريد ناموفق"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:278
+msgid ""
+"پس از خريد ناموفق متن فوق براي کاربر ارسال مي گردد ، جهت جايگزيني در هنگام "
+"ارسال از فيلد هاي زير استفاده نماييد : {name}, {payer_email}, "
+"{product_title}, {product_price}, {product_currency}, {payment_status}."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:281
+msgid "مدت اعتبار لينک دانلود"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:282
+msgid "لطفا مدت زمان اعتبار لينک دانلود را تعيين نماييد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:285
+msgid "نوع کليد خريد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:288
+msgid "کليد استاندارد HTML"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:288 paystar-wp-paid-downloads.php:294
+#: paystar-wp-paid-downloads.php:1592 paystar-wp-paid-downloads.php:1595
+msgid "خريد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:289
+msgid "کليد پيش فرض پی استار"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:290
+msgid "کليد با استفاده از CSS3"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:297
+msgid "کليد سفارشي"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:297
+msgid "مجاز به انتخاب تصوير با ابعاد : 600px در 600px و پسوند : JPG, GIF, PNG."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:302
+msgid "گزینه ها"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:310 paystar-wp-paid-downloads.php:1479
+msgid "قوانين و مقررات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:311
+msgid ""
+"در صورتي که نيازمند پذيرش قوانين و مقررات جهت خريد و دانلود فايل هاي سايت "
+"خود هستيد از اين قسمت استفاده نماييد ، خالي گذاشتن فيلد فوق به معني نداشتن "
+"قوانين و مقررات خواهد بود."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:317 paystar-wp-paid-downloads.php:346
+msgid "ذخيره تنظيمات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:324
+msgid "تنظيمات درگاه پرداخت پی استار"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:327
+msgid "جهت استفاده از درپاه پی استار CURL برروي سرور هاست خود فعال نماييد !"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:327
+msgid ""
+"توجه ! جهت دريافت اطلاعات درگاه مي بايست از طريق عضويت و دريافت درگاه در "
+"سايت <a target=\"_blank\" href=\"http://paystar.ir\">پی استار</a> اقدام "
+"نماييد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:329
+msgid "ترمینال درگاه پی استار"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:330
+msgid "لطفا ترمینال دريافتي از درگاه پی استار را در اين قسمت وارد نماييد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:333
+msgid "واحد پول"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:341
+msgid "نوع واحد پول مورد نظر خود را تعيين نماييد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:377
+msgid "پرداخت پی استار - فايل ها"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:381
+msgid "جستجو :"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:382 paystar-wp-paid-downloads.php:744
+msgid "جستجو"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:383 paystar-wp-paid-downloads.php:745
+msgid "برگشت به حالت ليست"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:385 paystar-wp-paid-downloads.php:426
+#: paystar-wp-paid-downloads.php:480
+msgid "بارگزاري فايل جديد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:389 paystar-wp-paid-downloads.php:488
+#: paystar-wp-paid-downloads.php:606 paystar-wp-paid-downloads.php:689
+#: paystar-wp-paid-downloads.php:750
+msgid "فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:390
+msgid "کد فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:391 paystar-wp-paid-downloads.php:519
+#: paystar-wp-paid-downloads.php:752
+msgid "مبلغ"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:392
+msgid "تعداد فروش"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:393
+msgid "عمليات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:409 paystar-wp-paid-downloads.php:430
+msgid "ويرايش جزئيات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:410 paystar-wp-paid-downloads.php:431
+msgid "ايجاد لينک دانلود"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:411 paystar-wp-paid-downloads.php:432
+msgid "لينک هاي دانلود ايجاد شده"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:412 paystar-wp-paid-downloads.php:433
+msgid "تراکنش هاي پرداختي"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:413 paystar-wp-paid-downloads.php:434
+msgid "دانلود فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:414 paystar-wp-paid-downloads.php:435
+msgid "حذف فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:422 paystar-wp-paid-downloads.php:774
+msgid "هيچ نتيجه اي يافت نشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:422
+msgid "هيچ فايلي يافت نشد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:429 paystar-wp-paid-downloads.php:647
+msgid "راهنما :"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:472
+msgid "پرداخت پی استار - ويرايش فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:472
+msgid "پرداخت پی استار - بارگزاري فايل جديد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:480
+msgid "رايش فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:484
+msgid "عنوان"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:485
+msgid ""
+"لطفا عنوان فايل خود را مشخص نماييد ، در صورت خالي گذاشتن اين فيلد نام فايل "
+"اصلي به انتخاب خواهد شد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:498
+msgid "انتخاب فايل براي بارگزاري"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:502
+msgid "انتخاب از فايل هاي موجود"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:507
+msgid ""
+"شما مي توانيد يک فايل را از مسير <strong>/wp-content/uploads/paid-downloads/"
+"files/</strong> انتخاب و يا نسبت به بارگزاري فايل اقدام نماييد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:529
+msgid ""
+"مبلغ مورد نظر جهت خريد فايل را تعيين نماييد ، ورود مبلغ 0 به معني رايگان "
+"بودن فايل خواهد بود."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:533
+msgid "تعداد موجود"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:534
+msgid ""
+"تعداد موجود جهت فروش فايل را تعيين نماييد . پس از رسيدن فروش فايل به اين سقف "
+"کليد خريد غير فعال خواهد شد. خالي گذاشتن و يا مقدار 0 براي اين فيلد به معني "
+"تعداد نامحدود مي باشد.در صورتي که محدوديتي در فروش نداريد اين گزينه را خالي "
+"بگذاريد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:537
+msgid "مسير دريافت لايسنس"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:538
+msgid ""
+"در صورتي که استفاده از اين فايل نيازمند دريافت لايسنس مي باشد . پس از پرداخت "
+"موفقيت آميز اطلاعات خريد پی استار به اين مسير ارسال مي گردد. سپس محتواي "
+"برگشتي از اين مسير در <strong>متن ايميل خريد موفق</strong> جايگزين فيلد "
+"{license_info} خواهد شد. در صورتي که فايل شما بدون لايسنس مي باشد از اين "
+"فيلد صرف نظر نماييد. استفاده از اين گزينه نيازمند فعال بودن CURL بر روي سرور "
+"هاست مي باشد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:544 paystar-wp-paid-downloads.php:708
+msgid "ذخيره اطلاعات"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:561
+msgid "Supported payment methods:"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:598
+msgid "پرداخت پی استار - لينک هاي دريافت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:600 paystar-wp-paid-downloads.php:644
+msgid "اضافه کردن لينک جديد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:604
+msgid "لينک دانلود"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:605
+msgid "صاحب"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:607
+msgid "منبع"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:608
+msgid "حذف"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:632 paystar-wp-paid-downloads.php:648
+msgid "حذف لينک دريافت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:632
+msgid "Delete download link"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:640
+msgid "هيچ لينک دريافتي موجود نمي باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:650
+msgid "لينک هاي فعال"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:651
+msgid "لينک هاي منقضي"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:670 paystar-wp-paid-downloads.php:677
+msgid "پرداخت پی استار - اضافه کردن لينک دريافت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:671
+msgid "ابتدا يک فايل را جهت ايجاد لينک به سيستم اضافه نماييد ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:685
+msgid "اضافه کردن لينک دريافت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:692
+msgid "انتخاب فايل"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:698
+msgid "لطفا يک فايل را انتخاب نماييد ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:702
+msgid "صاحب لينک"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:703
+msgid "لطفا يک آدرس ايميل را جهت ايجاد لينک دريافت وارد نماييد ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:739
+msgid "پرداخت پی استار - پرداخت ها"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:743
+msgid "جستجوي خريدار :"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:751
+msgid "خريدار"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:753
+msgid "وضعيت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:754
+msgid "ايجاد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:774
+msgid "هيچ پرداختي يافت نشد ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:809
+msgid "Custom \"Buy Now\" button has invalid image type"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:813
+msgid "Custom \"Buy Now\" button has invalid image dimensions"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:837
+msgid ""
+"Due to \"Buy Now\" image problem \"Buy Now\" button was set to Standard HTML "
+"button."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:850
+msgid "در ثبت اطلاعات خطاهاي زير وجود دارد :"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:890
+msgid "Unable to save uploaded file on server"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:897
+msgid "خطا ! فایل مورد نظر خود را جهت بارگزاری انتخاب نمایید "
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:923
+msgid "خطا ! هیچ فایلی انتخاب نشده است"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:941
+msgid "خطا ! مسیر فایل وارد شده صحیح نمی باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:948
+msgid "خطا ! مسیر دانلود فایل وارد نشده است"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:967
+msgid "فايل با موفقيت بارگزاري گرديد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:973 paystar-wp-paid-downloads.php:1001
+msgid "سرويس در دسترس نمي باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:995
+msgid "فايل با موفقيت اضافه گرديد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1011
+msgid "ايميل صاحب لينک به صورت صحيح وارد نشده است."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1019
+msgid "خطا در فراخواني سرويس ."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1024
+msgid "لينک دريافت فايل با موفقيت ايجاد گرديد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1039 paystar-wp-paid-downloads.php:1060
+#: paystar-wp-paid-downloads.php:1070
+msgid "Invalid service call"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1054
+msgid "File successfully removed"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1077
+msgid "Temporary download link successfully removed."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1083
+msgid "Invalid service call."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1137
+msgid ""
+"<strong>»افزونه پرداخت پی استار نصب شده است.</strong> هم اکنون جهت استفاده "
+"نیازمند اعمال <a href=\"admin.php?page=paid-downloads\">تنظیمات</a> می باشد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1142
+msgid ""
+"<strong>Please deactivate Paid Downloads plugin and activate it again.</"
+"strong> If you already done that and see this message, please create the "
+"folder \"/wp-content/uploads/paid-downloads/files/\" manually and set "
+"permission 0777 for this folder."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1173 paystar-wp-paid-downloads.php:1174
+#: paystar-wp-paid-downloads.php:1178 paystar-wp-paid-downloads.php:1183
+#: paystar-wp-paid-downloads.php:1185
+msgid "Invalid download link"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1186
+msgid "Download link was expired"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1192
+msgid "File not found"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1340 paystar-wp-paid-downloads.php:1365
+msgid "مدير گرامي !"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1340
+msgid ""
+"به اطلاع مي رسانيم کاربري با نام \" {name} \" ({payer_email}) نسبت به خريد "
+"محصول {product_title} از طريق درگاه پرداخت پی استار اقدام نموده است ، شماره "
+"رسيد پرداخت "
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1340
+msgid ""
+"لينک فوق براي خريدار به مدت {download_link_lifetime} روز معتبر خواهد بود."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1340 paystar-wp-paid-downloads.php:1365
+msgid "باتشکر,"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1345
+msgid "رسيد تحويل سفارش موفق"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1365
+msgid ""
+"کاربري با نام \" {name} \" ({payer_email}) نسبت به خريد محصول "
+"{product_title} اقدام نمود ، متاسفانه عمليت پرداخت را به صورت ناموفق به "
+"پايان رسانيد {transaction_date}. "
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1365
+msgid "وضعيت پرداخت : {payment_status}"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1365
+msgid "متاسفانه به دليل عدم تاييد پرداختي هيچ لينکي به کاربر تحويل نگرديد."
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1452
+msgid "Download"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1479
+msgid "کليک جهت خريد کالا ، به منظور پذيرش"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1505
+msgid "لطفا شماره تلفن همراه خود را جهت سهولت در پیگیری های آتی وارد نمایید"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1511
+msgid "شماره تلفن همراه وارد شده صحیح نمی باشد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1519 paystar-wp-paid-downloads.php:1527
+msgid ""
+"لطفا آدرس پست الکترونيکي خود را به صورت صحيح وارد نماييد ، لينک دانلود به "
+"اين آدرس ارسال خواهد شد"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1558 paystar-wp-paid-downloads.php:1559
+msgid "نام و نام خانوادگي"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1565 paystar-wp-paid-downloads.php:1566
+msgid "شماره تلفن همراه"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1571 paystar-wp-paid-downloads.php:1572
+msgid "آدرس پست الکترونيکي"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1626
+msgid "Pages:"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1699 paystar-wp-paid-downloads.php:1700
+msgid "روز"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1701 paystar-wp-paid-downloads.php:1702
+#: paystar-wp-paid-downloads.php:1703
+msgid "ساعت"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1704 paystar-wp-paid-downloads.php:1705
+#: paystar-wp-paid-downloads.php:1706
+msgid "دقيقه"
+msgstr ""
+
+#: paystar-wp-paid-downloads.php:1749
+msgid "لطفا افزونه <strong>Paid Downloads Pro</strong> را غير فعال نماييد ."
+msgstr ""
